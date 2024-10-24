@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38f382a8-856f-4ca7-b97a-d0cece3d712e" name="Changes" comment="Taller en Clases">
+    <list default="true" id="38f382a8-856f-4ca7-b97a-d0cece3d712e" name="Changes" comment="Taller en Clases.1">
+      <change afterPath="$PROJECT_DIR$/src/Calificaciones/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calificaciones/Notas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calificaciones/Persona.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mipracticabasica/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mipracticabasica/Persona.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,11 +72,20 @@
       <option name="project" value="LOCAL" />
       <updated>1729779055464</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Taller en Clases.1">
+      <option name="closed" value="true" />
+      <created>1729779738632</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729779738632</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Taller en Clases" />
-    <option name="LAST_COMMIT_MESSAGE" value="Taller en Clases" />
+    <MESSAGE value="Taller en Clases.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Taller en Clases.1" />
   </component>
 </project>
