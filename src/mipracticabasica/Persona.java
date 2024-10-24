@@ -6,8 +6,9 @@ public class Persona {
     public Persona(int edad){
         this.edad=edad;
     }
-    public void imprimirEdad(){
-        System.out.println("La edad es : "+ edad);
+    public int ImprimirEdad() {
+        System.out.println("Tu edad es : ");
+        return edad;
     }
     public boolean verificarMayorDeEdad() {
         if (edad >= 18) {
@@ -17,11 +18,11 @@ public class Persona {
         }
     }
     public void mostrarResultado(){
-        System.out.println("Tu edad es: "+edad);
+        System.out.print(+ImprimirEdad());
         if (verificarMayorDeEdad()) {
-            System.out.println("El usuario es mayor de edad.");
+            System.out.println("\nEl usuario es mayor de edad.");
         } else {
-            System.out.println("El usuario es menor de edad.");
+            System.out.println("\nEl usuario es menor de edad.");
         }
     }
 }

@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38f382a8-856f-4ca7-b97a-d0cece3d712e" name="Changes" comment="">
+    <list default="true" id="38f382a8-856f-4ca7-b97a-d0cece3d712e" name="Changes" comment="Taller en Clases">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mipracticabasica/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mipracticabasica/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/mipracticabasica/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mipracticabasica/Persona.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +23,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Ivan-Castill"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Ivan-Castill/Taller_24_10_2024.git",
@@ -57,6 +62,19 @@
       <option name="presentableId" value="Default" />
       <updated>1729777338964</updated>
     </task>
+    <task id="LOCAL-00001" summary="Taller en Clases">
+      <option name="closed" value="true" />
+      <created>1729779055464</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729779055464</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Taller en Clases" />
+    <option name="LAST_COMMIT_MESSAGE" value="Taller en Clases" />
   </component>
 </project>
